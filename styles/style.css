@@ -1,8 +1,12 @@
+/* main style */
 body {
     background-color: #fff;
     font-family: 'Poppins', sans-serif;
     font-size: 16px;
     color: #6C6C6C;
+}
+body,html{
+    height: 100%;
 }
 .theme-bg {
     background-color: #E76F51;
@@ -13,11 +17,13 @@ body {
 .section-title h2{
     color: #000;
     font-size: 48px;
-    font-weight: 500;
+    font-weight: 600;
 }
+/* header style */
 .header-area {
     background-color: #264653;
 }
+/* feature style */
 .feature-bike.gray {
     filter: grayscale(100%);
 }
