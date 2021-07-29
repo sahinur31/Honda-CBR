@@ -23,6 +23,9 @@ body,html{
 .header-area {
     background-color: #264653;
 }
+.para-small {
+    font-size: 14px;
+}
 /* feature style */
 .feature-bike.gray {
     filter: grayscale(100%);
